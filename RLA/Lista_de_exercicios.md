@@ -1,1 +1,49 @@
+# Unifor
+## Teste e/ou exerciocio mk
+Disciplina: **Raciocinio lógico e algoritimo**
 
+**Orientador:** Ricardo.C
+## Lista de exercicios
+
+### Exercicio 3
+
+repreende em fluxograma e pseudocódigo, um algoritimo para determinar se um número inteiro é par ou impar.
+```mermaid
+flowchart TD
+A([INICIO]) --> B{{Digite o seu Número}}
+B --> C[/Número/]
+C --> D{Número > 0}
+D --Nao--> E{{O número informado é negativo. }}
+D --Sim--> F[resto = numero % 2]
+F-->G{resto == 0}
+G --Nao-->H{{o número é impar}}
+G --Sim-->I{{o número é par}}
+E --> Z([Fim])
+H--> Z
+I --> Z
+```
+#### Pseudocódigo
+```
+
+ 1. Algoritmo verifica_par_impar
+ 2. Declare numero, resto NUMÉRICO
+ 3. Escreva:"Digite um numero: "
+ 4. Leia Numero
+ 5. Se numero > 0 ENTÃO
+ 6.      Resto = numero % 2 
+ 7.     SE Resto == 0 ENTÃO
+ 8.        Escreva "O Numero é par"
+ 9.    Senão
+ 10.       Escreva: "O numero é impar"
+ 11.  SENÃO 
+ 12.       Escreva: "O numero deve ser positivo"
+ 13. FIM_ALGORITMO
+ 
+
+
+
+
+```
+
+
+![Moai, apenas.](https://ih1.redbubble.net/image.4952206946.3361/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg)
