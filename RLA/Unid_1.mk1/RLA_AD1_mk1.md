@@ -1,3 +1,18 @@
+<img src="https://drive.google.com/uc?id=1SOzRTjUt7cuBJpSqoK90fcAiKBrnpUJo" width="400">
+
+**Curso:** Engenharia Civil <br>
+**Disciplina:** Raciocinio Lógico e ALgorítimo <br>
+**Código/Turma:** T998-21 <br>
+**Professor:** Ricardo Carubbi <br>
+**Data:** 20/03 <br>
+**Aluno(a):** Carlos Dirceu Rios Rodrigues NT<br>
+**Matrícula:** 2410603 <br>
+
+**1a chamada (Sim/Não):** sim <br>
+**2a chamada (Sim/Não):** não
+
+
+
 ### Questão 1 - Troca dos valores de duas variáveis (1 ponto)
 
 Dadas duas variáveis, $a$ e $b$, implemente e teste um algoritmo para trocar os valores atribuídos a elas.
