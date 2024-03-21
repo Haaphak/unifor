@@ -86,10 +86,10 @@ flowchart TD
 A([INICIO]) --> B{{Digite uma idade: }}
 B --> C[/I1/]
 C --> D{5 >= I1 <=7}
-D --TRUE--> E{{A categoria é infantio A}}
+D --TRUE--> E{{A categoria é infantil A}}
 E --> F([FIM])
 D --FALSE--> G{8 >= I1 <= 10}
-G --TRUE--> H{{A categoria é infantia B}}
+G --TRUE--> H{{A categoria é infantil B}}
 H --> F
 G --FALSE--> I{11 >= I1 <= 13}
 I --TRUE--> J{{A categoria é juvenil A}}
