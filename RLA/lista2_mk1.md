@@ -212,3 +212,5 @@ FIM
 | 11   | A categoria é juvenil A          |
 | 18   | A categoria é adulta         |
 | 15   | A categoria é juvenil B          |
+
+![enter image description here](https://ih1.redbubble.net/image.4952206946.3361/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg)
