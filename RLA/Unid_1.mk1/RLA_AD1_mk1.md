@@ -641,3 +641,9 @@ FIM_ALGORITIMO
 | 7        | Próxima iteração                          |                | 0      | 54321   | -    |
 | 7.1      | (Condição de saída do loop)               |                | 0      | 54321   | -    |
 | -        | **Saída do Resultado**                    | O número 12345 após inverter os algarismos é 54321| 0      | 54321   | -    |
+
+
+
+
+
+![enter image description here](https://ih1.redbubble.net/image.4952206946.3361/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg)
